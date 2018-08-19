@@ -1,0 +1,79 @@
+Using TensorFlow backend.
+ * Running on http://0.0.0.0:5002/ (Press CTRL+C to quit)
+2018-08-19 05:41:30.430228: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 AVX512F FMA
+Request-form ['image']
+Num of faces detected = 4
+More than 1 faces detected..
+Try 1 face at a time for best results!
+116.74.146.207 - - [19/Aug/2018 05:41:35] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 3
+More than 1 faces detected..
+Try 1 face at a time for best results!
+116.74.146.207 - - [19/Aug/2018 05:42:02] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 1
+It's an unknown happy 22 year old female.
+116.74.146.207 - - [19/Aug/2018 05:43:29] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:43:29] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 1
+It's an unknown happy 24 year old female.
+116.74.146.207 - - [19/Aug/2018 05:44:03] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:44:03] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 2
+More than 1 faces detected..
+Try 1 face at a time for best results!
+116.74.146.207 - - [19/Aug/2018 05:44:31] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:44:31] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 1
+It's an unknown sad 21 year old female.
+116.74.146.207 - - [19/Aug/2018 05:44:51] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:44:51] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 4
+More than 1 faces detected..
+Try 1 face at a time for best results!
+116.74.146.207 - - [19/Aug/2018 05:45:42] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:45:42] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 4
+More than 1 faces detected..
+Try 1 face at a time for best results!
+116.74.146.207 - - [19/Aug/2018 05:45:59] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:45:59] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 1
+It's an unknown happy 22 year old female.
+116.74.146.207 - - [19/Aug/2018 05:46:22] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:46:22] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 1
+It's an unknown happy 19 year old female.
+116.74.146.207 - - [19/Aug/2018 05:47:19] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:47:19] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 2
+More than 1 faces detected..
+Try 1 face at a time for best results!
+116.74.146.207 - - [19/Aug/2018 05:47:58] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:47:58] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 1
+No Face Detected! Try Again
+Tip: Keep face aligned with Camera
+116.74.146.207 - - [19/Aug/2018 05:50:30] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:50:30] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 0
+No Face Detected! Try Again
+Tip: Keep face aligned with Camera
+116.74.146.207 - - [19/Aug/2018 05:51:39] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:116.74.146.207 - - [19/Aug/2018 05:51:39] "[37mPOST / HTTP/1.1[0m" 200 -
+Request-form ['image']
+Num of faces detected = 1
+It's an unknown neutral 26 year old male.
+103.70.159.199 - - [19/Aug/2018 16:11:56] "[37mPOST / HTTP/1.1[0m" 200 -
+INFO:werkzeug:103.70.159.199 - - [19/Aug/2018 16:11:56] "[37mPOST / HTTP/1.1[0m" 200 -
